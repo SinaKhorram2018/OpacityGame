@@ -9,5 +9,5 @@ https://drive.google.com/file/d/1dFNmW6wx_dODTrWMkeHOQbEckgl0vIT1/view?usp=drive
 
 # This app is just for fun ;)
 
-# I suggest you try it  !
+# I suggest you try it  
 
