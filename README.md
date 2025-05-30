@@ -7,7 +7,7 @@
 
 ![image](images/Opcty.png)
 
-# This app is just for fun ; )
+# This app is just for fun 😊
 
 # I suggest you try it  
 
